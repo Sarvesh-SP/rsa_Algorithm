@@ -1,3 +1,3 @@
 # rsa_Algorithm
-Used for encryption of data or message using Java.
+Used for encryption and decryption of data or message using Java.
 
